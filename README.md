@@ -30,6 +30,6 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | [Girls in STEM](https://girlswhostem.com/girls-in-stem-scholarship/) |  |  | all STEM |
 | [Microsoft](https://careers.microsoft.com/students/us/en/usscholarshipprogram) | 2021 | Tutition scholarships and diversity conference scholarships | computer science, computer engineering or a related STEM discipline. |
 | [Western Digital](https://www.westerndigital.com/company/corporate-philanthropy/scholarship-programs) | January 2021 | open for undergrad. minimum GPA of 3.0 /4.0. demonstrated financial need or hardship | Computer Science, Engineering, Mathematics or Science (excluding agricultural sciences, health and other life sciences) in a B.S. program only | 
-| [Nutanix] (https://www.nutanix.com/scholarships) | November (possibly) | minimum 3.5 GPA | computer science, computer engineering, electrical engineering and computer science or software engineering |
+| [Nutanix](https://www.nutanix.com/scholarships) | November (possibly) | minimum 3.5 GPA | computer science, computer engineering, electrical engineering and computer science or software engineering |
 
 
