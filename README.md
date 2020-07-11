@@ -1,7 +1,7 @@
 # STEM-College-Scholarships
 A list of scholarships for women in STEM (most geared to computer science) to be updated as applications open and close, happy applying :) . 
 
-#### *Contribute by filling out [this form](https://forms.gle/34XDLW9FGWMNPWXA9)*
+###### *Contribute by filling out [this form](https://forms.gle/34XDLW9FGWMNPWXA9)*
 
 
 ## The Current List 
