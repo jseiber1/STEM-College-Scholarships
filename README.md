@@ -9,7 +9,7 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | [Straight North](https://www.straightnorth.com/scholarship/)      | August 1, 2020      | Enrolled as undergrad or grad in USA  |STEM|
 | [RevPart](https://revpart.com/scholarship/) | December 31st, 2020 | Enrolled as undergrad or grad | STEM |
 | [AfterCollege](https://www.aftercollege.com/company/aftercollege-inc/10/scholarship/259/?source=ur-sch-stem) | September 30, 2020 |  | all STEM |
-|[CapitalAuto](https://www.capitalautoauction.com/about-us/scholarship_ |  August 15, 2020|  | STEM |
+|[CapitalAuto](https://www.capitalautoauction.com/about-us/scholarship_) |  August 15, 2020|  | STEM |
 | [Simplr](https://www.simplr.ai/scholarships) | December 31, 2020 | based on AI/machine learning |  |
 
 
@@ -18,8 +18,7 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | ------------- |:-------------:| -----:|-----:|
 | [ABC Wildlife](https://abcwildlife.com/academic-scholarship)      |  | Needs one letter of reference | STEM |
 | [bhw group](https://thebhwgroup.com/scholarship)      | January | Open to undergrad and grad students| STEM |
-| [VIP Women in Tech](https://www.trustvip.com/wp-content/uploads/2020/01/2020WITS.pdf) |  | |planning a career in computer science, information technology, management 
-information systems, or another related field. |
+| [VIP Women in Tech](https://www.trustvip.com/wp-content/uploads/2020/01/2020WITS.pdf) |  |  |planning a career in computer science, information technology, management information systems, or another related field. |
 | [Palantir](https://www.palantir.com/students/scholarship/wit-north-america/) | December | Open for undergrad | STEM |
 | [Bluepay](https://www.bluepay.com/company/scholarship/) |  | open for men and women | STEM |
 | [Science Ambassador](https://www.scienceambassadorscholarship.org/#faq) | Fall | Only undergrads and high school seniors. Create a video on a STEM topic of your choice | all STEM |
