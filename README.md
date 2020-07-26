@@ -11,7 +11,6 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | [Straight North](https://www.straightnorth.com/scholarship/)      | August 1, 2020      | Enrolled as undergrad or grad in USA  |STEM|
 | [RevPart](https://revpart.com/scholarship/) | December 31st, 2020 | Enrolled as undergrad or grad | STEM |
 | [AfterCollege](https://www.aftercollege.com/company/aftercollege-inc/10/scholarship/259/?source=ur-sch-stem) | September 30, 2020 |  | all STEM |
-|[CapitalAuto](https://www.capitalautoauction.com/about-us/scholarship_) |  August 15, 2020|  | STEM |
 | [Simplr](https://www.simplr.ai/scholarships) | December 31, 2020 | based on AI/machine learning |  |
 
 
@@ -31,5 +30,6 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | [Microsoft](https://careers.microsoft.com/students/us/en/usscholarshipprogram) | 2021 | Tutition scholarships and diversity conference scholarships | computer science, computer engineering or a related STEM discipline. |
 | [Western Digital](https://www.westerndigital.com/company/corporate-philanthropy/scholarship-programs) | January 2021 | open for undergrad. minimum GPA of 3.0 /4.0. demonstrated financial need or hardship | Computer Science, Engineering, Mathematics or Science (excluding agricultural sciences, health and other life sciences) in a B.S. program only | 
 | [Nutanix](https://www.nutanix.com/scholarships) | November (possibly) | minimum 3.5 GPA | computer science, computer engineering, electrical engineering and computer science or software engineering |
+| [Hyundai](https://www.tun.com/blog/hyundai-women-in-stem-scholarship/) |  | undergrads | all STEM |
 
 
