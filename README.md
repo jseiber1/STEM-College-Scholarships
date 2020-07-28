@@ -31,5 +31,5 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | [Western Digital](https://www.westerndigital.com/company/corporate-philanthropy/scholarship-programs) | January 2021 | open for undergrad. minimum GPA of 3.0 /4.0. demonstrated financial need or hardship | Computer Science, Engineering, Mathematics or Science (excluding agricultural sciences, health and other life sciences) in a B.S. program only | 
 | [Nutanix](https://www.nutanix.com/scholarships) | November (possibly) | minimum 3.5 GPA | computer science, computer engineering, electrical engineering and computer science or software engineering |
 | [Hyundai](https://www.tun.com/blog/hyundai-women-in-stem-scholarship/) |  | undergrads | all STEM |
-
+| [AnitaB Pass it On](https://anitab.org/awards-grants/pass-it-on-awards-program/) | | to assist in a project to support other women in stem | in computing |
 
