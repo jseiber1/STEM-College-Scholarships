@@ -8,7 +8,6 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | Sponsor        | Deadline           | Notes | STEM field | 
 | ------------- |:-------------:| -----:|-----:|
 | [Women In Computing](https://www.loadview-testing.com/scholarship/)      | April 1, 2021 | Must be enrolled as an undergrad |computer science, computer engineering, or closely related technical field |
-| [Straight North](https://www.straightnorth.com/scholarship/)      | August 1, 2020      | Enrolled as undergrad or grad in USA  |STEM|
 | [RevPart](https://revpart.com/scholarship/) | December 31st, 2020 | Enrolled as undergrad or grad | STEM |
 | [AfterCollege](https://www.aftercollege.com/company/aftercollege-inc/10/scholarship/259/?source=ur-sch-stem) | September 30, 2020 |  | all STEM |
 | [Simplr](https://www.simplr.ai/scholarships) | December 31, 2020 | based on AI/machine learning |  |
@@ -32,4 +31,5 @@ A list of scholarships for women in STEM (most geared to computer science) to be
 | [Nutanix](https://www.nutanix.com/scholarships) | November (possibly) | minimum 3.5 GPA | computer science, computer engineering, electrical engineering and computer science or software engineering |
 | [Hyundai](https://www.tun.com/blog/hyundai-women-in-stem-scholarship/) |  | undergrads | all STEM |
 | [AnitaB Pass it On](https://anitab.org/awards-grants/pass-it-on-awards-program/) | | to assist in a project to support other women in stem | in computing |
+| [Straight North](https://www.straightnorth.com/scholarship/)      |    | Enrolled as undergrad or grad in USA  |STEM|
 
