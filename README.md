@@ -1,21 +1,20 @@
 # STEM-College-Scholarships
 A list of scholarships for women in STEM (most geared to computer science) to be updated as applications open and close, happy applying :) . 
 
-###### *Contribute by filling out [this form](https://forms.gle/34XDLW9FGWMNPWXA9)*
-
 
 ## The Current List 
 | Sponsor        | Deadline           | Notes | STEM field | 
 | ------------- |:-------------:| -----:|-----:|
-| [Women In Computing](https://www.loadview-testing.com/scholarship/)      | April 1, 2021 | Must be enrolled as an undergrad |computer science, computer engineering, or closely related technical field |
-| [RevPart](https://revpart.com/scholarship/) | December 31st, 2020 | Enrolled as undergrad or grad | STEM |
-| [AfterCollege](https://www.aftercollege.com/company/aftercollege-inc/10/scholarship/259/?source=ur-sch-stem) | September 30, 2020 |  | all STEM |
-| [Simplr](https://www.simplr.ai/scholarships) | December 31, 2020 | based on AI/machine learning |  |
+| [Women In Computing](https://www.loadview-testing.com/scholarship/)      | April 1, 2022 | Must be enrolled as an undergrad |computer science, computer engineering, or closely related technical field |
+| [RevPart](https://revpart.com/scholarship/) | December 31, 2021 | Enrolled as undergrad or grad | STEM |
+| [AfterCollege](https://www.aftercollege.com/company/aftercollege-inc/10/scholarship/259/?source=ur-sch-stem) | September 30, 2021 |  | all STEM |
+
 
 
 ## Closed, will update when open again
 | Sponsor        | Reopening           | Notes  | STEM field |
 | ------------- |:-------------:| -----:|-----:|
+| [Simplr](https://www.simplr.ai/scholarships) |  | based on AI/machine learning |  |
 | [ABC Wildlife](https://abcwildlife.com/academic-scholarship)      |  | Needs one letter of reference | STEM |
 | [bhw group](https://thebhwgroup.com/scholarship)      | January | Open to undergrad and grad students| STEM |
 | [VIP Women in Tech](https://www.trustvip.com/wp-content/uploads/2020/01/2020WITS.pdf) |  |  |planning a career in computer science, information technology, management information systems, or another related field. |
